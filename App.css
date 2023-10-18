@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+.button {
+  background-color: blue !important;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: blue;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  font-size: 18px;
+}
